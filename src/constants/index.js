@@ -254,11 +254,12 @@ const socialImgs = [
     imgPath: "/images/fb.png",
   },
   {
-    name: "x",
-    imgPath: "/images/x.png",
+    name: "github",
+    imgPath: "/images/github.webp",
   },
   {
     name: "linkedin",
+    url: "https://www.linkedin.com/in/safi-mian",
     imgPath: "/images/linkedin.png",
   },
 ];
